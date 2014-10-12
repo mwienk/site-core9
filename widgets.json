@@ -3,6 +3,7 @@
     "steps":"blocks/block-video/video/steps/steps.json"
   },
     "video":{
+    "template":"blocks/block-video/video/tpl/video.soy",
     "steps":"blocks/block-video/video/steps/steps.json"
   },
     "slider":{
