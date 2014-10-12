@@ -1,11 +1,11 @@
 {
   "basic":{
-    "steps":"wizards/basic/steps.json"
+    "steps":"blocks/block-video/video/steps/steps.json"
   },
     "video":{
-    "steps":"../clients/easydrain/wizards/video/steps/steps.json"
+    "steps":"blocks/block-video/video/steps/steps.json"
   },
     "slider":{
-    "steps":"wizards/basic/steps.json"
+    "steps":"blocks/block-video/video/steps/steps.json"
   }
 }
