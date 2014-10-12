@@ -4,7 +4,7 @@
     "steps":"blocks/block-video/text/steps/steps.json"
   },
     "video":{
-    "template":"/block-video/video/tpl/video.soy",
+    "template":"/block-video/video/tpl/site-block-video.soy",
     "steps":"blocks/block-video/video/steps/steps.json"
   },
     "slider":{
