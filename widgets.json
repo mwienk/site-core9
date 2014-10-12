@@ -1,10 +1,10 @@
 {
   "basic":{
-    "template":"blocks/block-video/text/tpl/video.soy",
+    "template":"/block-video/text/tpl/video.soy",
     "steps":"blocks/block-video/text/steps/steps.json"
   },
     "video":{
-    "template":"blocks/block-video/video/tpl/video.soy",
+    "template":"/block-video/video/tpl/video.soy",
     "steps":"blocks/block-video/video/steps/steps.json"
   },
     "slider":{
